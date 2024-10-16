@@ -27,16 +27,17 @@ End of the program
 ## PROGRAM:
 ```
 #Copy contents of a file 
-#Developed by: BHUVANESHWARI M
-#Register Number:212223230033
-with open("text1.txt","r") as fp:
+#Developed by: G LEKASRI
+#Register Number:212223100025
+with open("TEXT.txt","r") as fp:
     msg1=fp.read()
-with open("copytxt","w") as fp1:
+with open("COPY.txt","w") as fp1:
     fp1.write(msg1)
 
 ```
 ### OUTPUT:
-![Screenshot 2024-10-16 112911](https://github.com/user-attachments/assets/0ab2b978-e962-45f0-9afd-0edb48d6a9da)
+![Screenshot 2024-10-16 150704](https://github.com/user-attachments/assets/b8170660-6067-4d7b-b70b-914562974ae0)
+
 
 
 
